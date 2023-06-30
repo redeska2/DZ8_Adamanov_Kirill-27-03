@@ -1,0 +1,20 @@
+.hidden {
+  display: none;
+}
+h3{
+  text-align: center;
+}
+button {
+  margin-left: 600px;
+  cursor: pointer;
+}
+p{
+  text-align: center;
+  color:#000;
+}
+body {
+  background-image: url("https://rosphoto.com/images/u/ugallery/1903/dsc-2360.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
